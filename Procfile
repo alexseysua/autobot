@@ -1,1 +1,1 @@
-web: python autobot/autobot.py
+web: python autobot.py
