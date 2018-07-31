@@ -1,1 +1,1 @@
-web: python autobot.py
+web: gunicorn --pythonpath autobot python autobot.py 
